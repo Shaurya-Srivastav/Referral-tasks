@@ -77,4 +77,4 @@ Contributions to this script are welcome. Please follow standard coding conventi
 
 ## License
 
-[Specify the License here]
+This project is licensed under the MIT License - see the LICENSE file for details.
