@@ -1,9 +1,3 @@
-
-
-Creating a comprehensive and meticulously detailed `README.md` for your Python data profiling script is crucial for ensuring usability, maintainability, and clarity. The following is a template for such a README, structured to follow documentation standards often seen in big tech companies.
-
----
-
 # Data Profiling Script
 
 ## Overview
